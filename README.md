@@ -1,6 +1,7 @@
 You can see the project live on www.calculatorpro.co
 
 To install the project locally, please begin by installing Docker Engine and Docker Compose.
+
 https://docs.docker.com/engine/install/ubuntu/
 
 Then run the following commands:
@@ -13,9 +14,9 @@ docker-compose build
 
 docker-compose up
 
-_______________________________________________________
+_________________________________________________________________
 
-Alternatively, you can install virtual environment:
+Alternatively, you can run the project using virtual environment:
 
 cd calculator-logs/calculator
 
